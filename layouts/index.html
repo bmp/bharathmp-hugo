@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {{ "" | safeHTML }} {{ partial "head.html" . }}
+  <body>
+
+    {{ if .Site.Params.header.enable }}
+      {{ partial "header.html" . }}
+    {{ end }}
+    {{ if .Site.Params.bio.enable }}
+      {{ partial "bio.html" . }}
+    {{ end }}
+    {{ if .Site.Params.social_icons.enable }}
+      {{ partial "social.html" . }}
+    {{ end }}
+
+    {{ partial "footer.html" . }}
+
+  </body>
+
+</html>

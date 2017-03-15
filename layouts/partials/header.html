@@ -1,0 +1,9 @@
+<!--Site header: Site name-->
+    <div class="row centered">
+      <div class="col-lg-8 col-lg-offset-2 w">
+        <h1><span class="s1"><a class ="header" href="{{ $.Site.BaseURL }}">{{ .Site.Params.header.title | markdownify }}</a></span></h1>
+      {{ if .Site.Params.header.quote }}
+        <h4><span class="s1"><i>{{ .Site.Params.header.quote }}</i></span></h4>
+      {{ end }}
+      </div>
+    </div>

@@ -1,3 +1,52 @@
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
+title = "Bharath M. Palavalli"
+baseURL = "http://www.bharathpalavalli.com/"
+
+disqusShortname = "bharathmp"
+
+[author]
+  name = "Bharath M. Palavalli"
+  email = "mail@bharathpalavalli.com"
+
+[params]
+  name = "Bharath M. Palavalli"
+  description = "Personal Website"
+
+[params.header]
+  enable = true
+  title = "Bharath M. Palavalli"
+  quote = ""
+
+[params.bio]
+    enable = true
+    gen = "I design games and simulations to understand complex adaptive systems. I am currently working on identifying and understanding the conflict-prone relationship between the poor and the city; specifically, to improve policy planning and design."
+    research = "My research interests are in the areas of Game Design, Game Theory, Agent-based modelling, Complex Adaptive Systems, Policy Design, Poverty and Inequality, Graph Theory, Information Retrieval, Information Communication Technologies and their effects."
+    work = "I am the Co-Founder of <a href=\"http://www.fieldsofview.in\">Fields of View</a>, a non-profit research group in Bangalore. Previously, I have designed agent-based simulation frameworks, games for safety and learning, and have worked in the areas of infrastructure policy, disaster management and poverty."
+
+[params.social_icons]
+  enable = true
+
+[[params.social]]
+  title = "Twitter"
+  icon = "fa-twitter"
+  link = "https://twitter.com/bharathmp"
+
+[[params.social]]
+  title = "LinkedIn"
+  icon = "fa-linkedin"
+  link = "https://www.linkedin.com/in/bharathmp/"
+
+[[params.social]]
+  title = "E-Mail"
+  icon = "fa-envelope"
+  link = "mailto:mail@bharathpalavalli.com"
+
+[[params.social]]
+  title = "Keybase"
+  icon = "fa-key"
+  link = "https://www.keybase.io/bmp/"
+
+[[params.social]]
+  title = "Resume"
+  icon = "fa-file-text"
+  link = "http://www.bharathpalavalli.com/cv.pdf"
