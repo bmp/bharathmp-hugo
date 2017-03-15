@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bharath M. Palavalli</title>
-    <link>http://www.bharathpalavalli.com/index.xml</link>
+    <link>https://bmp.github.io/bharathmp-hugo/index.xml</link>
     <description>Recent content on Bharath M. Palavalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mail@bharathpalavalli.com (Bharath M. Palavalli)</managingEditor>
     <webMaster>mail@bharathpalavalli.com (Bharath M. Palavalli)</webMaster>
-    <atom:link href="http://www.bharathpalavalli.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bmp.github.io/bharathmp-hugo/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
