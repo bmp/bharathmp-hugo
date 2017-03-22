@@ -69,3 +69,6 @@ The javascript code is available in partials/head.html whereas the noscript vers
 * Add multiple font support
 * Search integration
 * ~~Create demosite on Github Pages~~
+
+### Git Scripts ###
+You can ignore this folder from the theme. This was created to commit respective changes to Github Pages and only theme changes to the master branch.
