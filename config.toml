@@ -11,6 +11,8 @@ disqusShortname = "bharathmp"
 [params]
   name = "Bharath M. Palavalli"
   description = "Personal Website"
+  piwikSiteID = "1"
+  piwikURL= "pwk.bharathpalavalli.com"
 
 [params.header]
   enable = true

@@ -1,4 +1,9 @@
 <!--Site header: Site name-->
+
+    <!--No Javascript code-->
+    <noscript><p><img src="http://{{ .Site.Params.piwikURL }}/piwik/piwik.php?idsite={{ .Site.Params.piwikSiteID }}&rec=1&bots=1" style="border:0" alt="" /></p></noscript>
+    <!--End of No Javascript code-->
+
     <div class="row centered">
       <div class="col-lg-8 col-lg-offset-2 w">
         <h1><span class="s1"><a class ="header" href="{{ $.Site.BaseURL }}">{{ .Site.Params.header.title | markdownify }}</a></span></h1>
