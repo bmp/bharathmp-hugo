@@ -6,4 +6,4 @@ This is a HTML 5 compliant theme, this theme creates a landing/index page with y
 
 ![alt website-thumbnail](bharathpalavalli-tn.png)
 
-Please visit https://github.com/bmp/bharathmp-hugo for the theme source.
+Please visit https://github.com/bmp/bharathmp-hugo for the theme source. This is the branch being used for Github Pages.
