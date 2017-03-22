@@ -24,3 +24,5 @@ cd ..
 cd themes && git add --all && git commit -m "Publishing to master (publish.sh)"
 cd ..
 git add README.md && git commit -m "Publishing to master (publish.sh)"
+
+git push upstream master
